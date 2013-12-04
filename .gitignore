@@ -1,0 +1,5 @@
+# Ignore IDE files (IntelliJ)
+*.iml
+
+# Ignore compiled files
+target/
