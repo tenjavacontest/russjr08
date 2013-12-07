@@ -1,6 +1,6 @@
 # This name will be changed when the theme is announced.
 name: TenJava#1
 main: com.kronosad.projects.minecraft.tenjava.contest_1.Main
-version: 0.1
+version: ${project.version}
 description: >
              An entry for the Ten.java plugin contest!
